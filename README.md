@@ -30,7 +30,7 @@ A simple bioinformatics tool built using Streamlit to analyze DNA sequences from
 ## How to Run
 
 1. Clone the repository:
-   `git clone https://github.com/p-snowflake/dna-sequence-analyzer.git`
+   `git clone https://github.com/prachii-18/dna-sequence-analyzer.git`
    `cd dna-sequence-analyzer`
 
 2. Install the required packages:
